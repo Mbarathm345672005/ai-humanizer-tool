@@ -6,5 +6,5 @@ sentencepiece
 protobuf
 tf-keras
 PyPDF2
-
 python-docx
+
