@@ -1,10 +1,5 @@
 streamlit
-transformers
-torch
 nltk
-sentencepiece
-protobuf
-tf-keras
+textblob
 PyPDF2
 python-docx
-
