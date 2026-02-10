@@ -3,5 +3,8 @@ transformers
 torch
 nltk
 sentencepiece
+protobuf
+tf-keras
 PyPDF2
+
 python-docx
