@@ -1,7 +1,0 @@
-streamlit
-transformers
-torch
-nltk
-sentencepiece
-PyPDF2
-python-docx
